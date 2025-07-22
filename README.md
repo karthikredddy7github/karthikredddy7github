@@ -14,14 +14,14 @@
 
 ## 🔥 Featured Projects
 
-### 🐔 [Poultry Detect - AI Disease Detection System](https://github.com/karthikredddy7github/poultry-detect)
+### 🐔 [Poultry Detect - AI Disease Detection System](https://github.com/karthikredddy7github/Poultry_disease_detect-AI)
 **AI-powered poultry disease detection for rural farmers**
 - 🧠 **CNN-based** web application detecting Coccidiosis, Newcastle, and Salmonella
 - 🌐 **Real-time image classification** with educational resources
 - 🛠️ **Tech Stack**: Python, Flask, TensorFlow
 - 🎯 **Impact**: Helping rural farmers with early disease detection
 
-### 🎨 [Pattern Sense - Fabric Pattern Classifier](https://github.com/karthikredddy7github/pattern-sense)
+### 🎨 [Pattern Sense - Fabric Pattern Classifier](https://github.com/karthikredddy7github/pattern_sense)
 **Deep learning solution for textile industry**
 - 🧠 **Transfer Learning** with MobileNetV2 for 10 fabric pattern classification
 - 👗 **Industry Application**: Fashion designers and QA teams
