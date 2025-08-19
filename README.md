@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech Computer Science (AI & ML Specialization)** at RISE Krishna Sai Prakasam Group of Institutions
-- 🏆 **CGPA**: 9.05/10 (Expected June 2026)
+- 🏆 **CGPA**: 9.17/10 (Expected June 2026)
 - 🌱 Currently exploring **AI Agent Development** using n8n and **Automation Workflows**
 - 💡 Passionate about building **end-to-end ML applications** that solve real-world problems
 - 📍 Based in Ongole, Andhra Pradesh, India
