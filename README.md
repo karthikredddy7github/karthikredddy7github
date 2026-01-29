@@ -7,12 +7,22 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech Computer Science (AI & ML Specialization)** at RISE Krishna Sai Prakasam Group of Institutions
-- 🏆 **CGPA**: 9.15/10 [ upto 7 semesters] (Expected June 2026)
+- 🏆 **CGPA**: 9.15/10 [upto 7 semesters] (Expected June 2026)
 - 🌱 Currently exploring **AI Agent Development** using n8n and **Automation Workflows**
 - 💡 Passionate about building **end-to-end ML applications** that solve real-world problems
 - 📍 Based in Ongole, Andhra Pradesh, India
 
 ## 🔥 Featured Projects
+
+### 🌊 [Flood Forecasting Model Using Federated Learning](https://github.com/karthikredddy7github/Flood_Forecasting_Model_using_Federated-Learning)
+**Privacy-preserving distributed deep learning for flood prediction**
+- 🔐 **Federated Learning Architecture** across 3 distributed monitoring stations
+- 🧠 **Dual Models**: FFNN (baseline) + CNN-2D (advanced) achieving R² > 0.90
+- 🌐 **Distributed System**: Server-client architecture with TCP/IP socket communication
+- 📊 **Real-time Dashboards**: Live training visualization and performance metrics
+- 🔄 **FedAvg Algorithm**: Privacy-preserving model aggregation without sharing raw data
+- 🛠️ **Tech Stack**: TensorFlow, Keras, Python Sockets, CustomTkinter, Matplotlib
+- 🎯 **Impact**: Early flood warning system protecting communities while preserving data privacy
 
 ### 🐔 [Poultry Detect - AI Disease Detection System](https://github.com/karthikredddy7github/Poultry_disease_detect-AI)
 **AI-powered poultry disease detection for rural farmers**
@@ -47,11 +57,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Tools & Platforms
+### Development Tools
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### AI Coding Assistants
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -76,11 +89,13 @@
 ## 🎯 Areas of Interest
 
 - 🤖 **Artificial Intelligence & Machine Learning**
+- 🔐 **Federated Learning & Privacy-Preserving AI**
 - 🚀 **Model Deployment & MLOps**
 - 🔗 **AI Agent Development using n8n**
 - ⚙️ **Automation Workflows**
 - 📱 **Computer Vision & Image Classification**
 - 🌐 **Full-Stack Web Development**
+- 🌊 **Computational Hydro-Informatics**
 
 ## 🤝 Let's Connect!
 
