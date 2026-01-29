@@ -2,10 +2,10 @@
   
 # 👋 Hi there! I'm Karthik Reddy Manchala
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+ML+Enthusiast+%7C+Deep+Learning+Engineer;Federated+Learning+Researcher+%7C+Full+Stack+Developer;Building+Privacy-Preserving+AI+Solutions;Innovation+Driven+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Deep+Learning+Engineer;Federated+Learning+Researcher;Privacy-Preserving+AI" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Turning+Data+into+Intelligence;From+Concept+to+Deployment;Real-World+AI+Solutions" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Intelligence;From+Concept+to+Deployment;Real-World+AI+Solutions" alt="Typing SVG" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=karthikredddy7github&color=blueviolet&style=for-the-badge)](https://github.com/karthikredddy7github)
@@ -58,7 +58,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikredddy7github&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikredddy7github&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -240,7 +240,7 @@ Benefits: Faster design workflows, automated inventory management
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikredddy7github&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karthikredddy7github&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -372,23 +372,7 @@ timeline
 
 ---
 
-<div align="center">
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/karthikredddy7github/karthikredddy7github/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
